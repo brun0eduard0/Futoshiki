@@ -1,0 +1,15 @@
+Para executar o código basta estar com o terminal na pasta em que o arquivo está
+
+usar o comando:
+	gcc -o futoshiki futoshiki.c
+
+e depois executar
+	./futoshiki
+	
+aparecerá a frase
+	"Digite o nome do arquivo:"
+
+basta adiciona o nome do arquivo para teste
+ex:	"base6facil.txt"
+
+pronto, o terminal irá mostrar a entrada e a saída do problema (se ele conseguir resolver)
